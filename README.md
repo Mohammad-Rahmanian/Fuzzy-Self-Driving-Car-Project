@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository
 2. Navigate to the project directory
-3.Launch the simulator by running:
+3. Launch the simulator by running: python simulator.py
 
 This command starts the PyGame window and begins the simulation. Use the arrow keys to manually adjust the car's direction:
 - **Left Arrow Key**: Turn the car left.
